@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'NodejsStaging'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_825872E27C6B43D099F73FAD92B5C14C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A37780A5CBCD4B07BD4A6ED0949790B5 }}
           package: .
